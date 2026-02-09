@@ -14,13 +14,13 @@ const Footer: React.FC<FooterProps> = ({ className = "" }) => {
 					<div className="mb-6 md:mb-0">
 						<Image
 							src="/logo-black.png"
-							alt="Sarva Logo"
+							alt="Bhopal Bazaar Logo"
 							width={150}
 							height={70}
 							className="object-contain"
 						/>
 						<p className="text-gray-600 mt-2">
-							Connecting you to local flavors
+							Connecting you to local flavors in Bhopal
 						</p>
 					</div>
 					<div className="flex space-x-8">
@@ -47,12 +47,12 @@ const Footer: React.FC<FooterProps> = ({ className = "" }) => {
 							className="text-gray-600 hover:text-puce transition-colors duration-200"
 						>
 							Terms of Service
-						</Link>	
+						</Link> 
 					</div>
 				</div>
 				
 				<div className="mt-8 pt-8 border-t border-gray-200 text-center text-gray-500">
-					<p>© {new Date().getFullYear()} Sarva. All rights reserved.</p>
+					<p>&copy; {new Date().getFullYear()} Bhopal Bazaar. All rights reserved.</p>
 				</div>
 			</div>
 		</footer>
