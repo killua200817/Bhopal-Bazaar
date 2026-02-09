@@ -219,7 +219,7 @@ const OrderDetails: React.FC<OrderDetailsProps> = ({
 
 	const handleContactSupport = () => {
 		// Implement support contact functionality
-		window.location.href = `mailto:customercontact@sarvabazaar.com?subject=Support Request for Order ${liveOrder.id}&body=Hello, I need assistance with my order (ID: ${liveOrder.id}). Please provide support.`;
+		window.location.href = `mailto:customercontact@bhopalbazaar.com?subject=Support Request for Order ${liveOrder.id}&body=Hello, I need assistance with my order (ID: ${liveOrder.id}). Please provide support.`;
 	};
 
 	const handleContactVendor = () => {
