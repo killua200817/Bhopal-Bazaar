@@ -64,19 +64,19 @@ export default function AboutUsPage() {
 						</p>
 						<p className="font-semibold">
 							These aren’t just logistical gaps. They’re identity gaps. And
-							SARVA is our answer.
+							BHOPAL BAZAAR is our answer.
 						</p>
 						<p>
-							SARVA is a South Asian grocery delivery platform built to bridge
+							BHOPAL BAZAAR is a Bhopal grocery delivery platform built to bridge
 							culture, convenience, and community. We&apos;re not just
 							delivering products, we&apos;re preserving home. We’re empowering
-							small, often-overlooked South Asian vendors with modern tools to
+							small, often-overlooked Bhopal vendors with modern tools to
 							thrive. We’re creating a system where heritage and technology
 							don’t compete; they collaborate.
 						</p>
 						<p>
 							We’ve spent countless hours, between college classes, jobs, and
-							leadership roles, building SARVA from the ground up. And this past
+							leadership roles, building BHOPAL BAZAAR from the ground up. And this past
 							week, our vision was recognized:
 						</p>
 						<p className="font-semibold">
@@ -89,7 +89,7 @@ export default function AboutUsPage() {
 							a message.
 						</p>
 						<h3 className="text-2xl font-bold text-gray-900 tracking-tight mb-2">
-							Meet the team behind SARVA:
+							Meet the team behind BHOPAL BAZAAR:
 						</h3>
 						<div className="space-y-4">
 							<div>
@@ -98,10 +98,10 @@ export default function AboutUsPage() {
 								</h4>
 								<p>
 									With a strong foundation in environmental science and
-									research, Dipseka leads SARVA with precision and purpose. Her
+									research, Dipseka leads BHOPAL BAZAAR with precision and purpose. Her
 									experiences across research labs, nonprofit strategy, and
 									community engagement help her design solutions that are not
-									only functional but rooted in equity. She ensures SARVA’s
+									only functional but rooted in equity. She ensures BHOPAL BAZAAR’s
 									mission always stays grounded in the people it serves.
 								</p>
 							</div>
@@ -112,7 +112,7 @@ export default function AboutUsPage() {
 								<p>
 									Smart, precise, and deeply intuitive, Nishtha turns data into
 									purpose. From vendor performance analytics to consumer
-									behavior insights, her work makes sure every move SARVA makes
+									behavior insights, her work makes sure every move BHOPAL BAZAAR makes
 									is informed and ethical, ensuring we don’t just grow fast, we
 									grow right.
 								</p>
@@ -126,7 +126,7 @@ export default function AboutUsPage() {
 									finance, fintech, and smart modeling, he brings critical
 									thinking, financial structure, and future-focused logic to the
 									team. From pricing frameworks to long-term projections, his
-									ability to see through complexity ensures SARVA isn’t just
+									ability to see through complexity ensures BHOPAL BAZAAR isn’t just
 									built, it’s built to last.
 								</p>
 							</div>
