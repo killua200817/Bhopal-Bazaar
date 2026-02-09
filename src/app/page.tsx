@@ -85,10 +85,10 @@ export default function HomePage() {
 				<div className="relative pt-20 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 					<div className="text-center">
 						<h1 className="text-4xl font-extrabold text-gray-900 sm:text-5xl sm:tracking-tight lg:text-6xl mb-6">
-							Fresh. Familiar. Fast.
+													Fresh. Local. Bhopal.
 						</h1>
 						<p className="mt-6 max-w-2xl mx-auto text-3xl text-black font-light">
-							South Asian groceries from trusted local vendors—delivered to your
+													Groceries from trusted local vendors in Bhopal—delivered to your
 							door.
 						</p>
 						<div className="mt-10">
@@ -130,7 +130,7 @@ export default function HomePage() {
 									Order Food
 								</h3>
 								<p className="text-gray-700 text-lg mb-6">
-									Order food from your favorite local restaurants.
+																Order groceries from your favorite local vendors in Bhopal.
 								</p>
 								<div className="flex justify-center">
 									<Link
