@@ -1,6 +1,6 @@
 {
-	"name": "dezi-bazaar",
-	"version": "0.1.0",
+		"name": "bhopal-bazaar",
+		"version": "0.1.0",
 	"private": true,
 	"scripts": {
 		"dev": "next dev --turbopack",
