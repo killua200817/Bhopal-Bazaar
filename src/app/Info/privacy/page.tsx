@@ -292,8 +292,8 @@ export default function PrivacyPage() {
 								Disclaimer Regarding Developer Responsibility
 							</h3>
 							<p className="text-gray-700">
-								The development and provision of the Sarva platform are services
-								provided by an independent developer. Sarva, its owners,
+								The development and provision of the Bhopal Bazaar platform are services
+								provided by an independent developer. Bhopal Bazaar, its owners,
 								operators, and affiliates are solely responsible for the
 								collection, use, maintenance, and disclosure of personal
 								information as described in this Privacy Policy. The developer
@@ -301,7 +301,7 @@ export default function PrivacyPage() {
 								privacy, security, or compliance related to the operation of the
 								Marketplace or the handling of User data. By using the
 								Marketplace, Users acknowledge and agree that any concerns or
-								issues related to privacy should be directed to Sarva using the
+								issues related to privacy should be directed to Bhopal Bazaar using the
 								contact information provided above, and not to the developer.
 							</p>
 						</div>
