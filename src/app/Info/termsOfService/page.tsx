@@ -108,7 +108,7 @@ export default function TermsOfServicePage() {
                     <div className="space-y-8 text-lg text-gray-700">
                         <h2>1. Acceptance of Terms</h2>
                         <p>
-                            By accessing and using Sarva ("the Marketplace," "we," "us," or "our")
+                            By accessing and using Bhopal Bazaar ("the Marketplace," "we," "us," or "our")
                             and its services (the "Services"), you ("User," "you") agree to be bound
                             by these Terms of Service ("Terms"). These Terms apply to all Users,
                             including customers, vendors, and drivers. If you do not agree to these
@@ -117,7 +117,7 @@ export default function TermsOfServicePage() {
 
                         <h2>2. Description of Services</h2>
                         <p>
-                            Sarva is an online platform that facilitates transactions between
+                            Bhopal Bazaar is an online platform that facilitates transactions between
                             customers who wish to purchase goods or services, vendors who offer goods
                             or services for sale, and drivers who provide delivery services. We
                             provide a platform for these interactions but are not directly involved
@@ -171,15 +171,15 @@ export default function TermsOfServicePage() {
                         <h2>5. Transactions and Payments</h2>
                         <h3>5.1 Customers</h3>
                         <p>
-                            Customers may purchase goods or services offered by Vendors through Sarva.
+                            Customers may purchase goods or services offered by Vendors through Bhopal Bazaar.
                             Payment processing is facilitated by third-party payment processors. You
                             agree to abide by the terms and conditions of such payment processors.
-                            Sarva is not responsible for any issues arising from payment processing.
+                            Bhopal Bazaar is not responsible for any issues arising from payment processing.
                         </p>
                         <h3>5.2 Vendors</h3>
                         <p>
                             Vendors are responsible for accurately listing their goods or services,
-                            setting prices, and fulfilling orders. Sarva may charge vendors fees for
+                            setting prices, and fulfilling orders. Bhopal Bazaar may charge vendors fees for
                             using the platform, as outlined in a separate agreement. Vendors are
                             responsible for all applicable taxes related to their sales.
                         </p>
@@ -187,15 +187,15 @@ export default function TermsOfServicePage() {
                         <p>
                             Drivers are responsible for providing delivery services in a safe and
                             timely manner. Drivers may be subject to background checks and must comply
-                            with all applicable traffic laws and regulations. Sarva's role is limited
+                            with all applicable traffic laws and regulations. Bhopal Bazaar's role is limited
                             to connecting drivers with delivery requests.
                         </p>
 
                         <h2>6. Intellectual Property</h2>
                         <p>
-                            Sarva and its original content, features, and functionality (including but
+                            Bhopal Bazaar and its original content, features, and functionality (including but
                             not limited to text, graphics, logos, images, and software) are owned by
-                            Sarva and are protected by copyright, trademark, and
+                            Bhopal Bazaar and are protected by copyright, trademark, and
                             other intellectual property laws. You may not reproduce, modify,
                             distribute, display, or create derivative works of any portion of the
                             Services without our express written permission.
@@ -215,7 +215,7 @@ export default function TermsOfServicePage() {
 
                         <h2>8. Limitation of Liability</h2>
                         <p>
-                            TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SARVA,
+                            TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL BHOPAL BAZAAR,
                             ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS, OR
                             LICENSORS BE LIABLE FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL,
                             CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES
@@ -230,7 +230,7 @@ export default function TermsOfServicePage() {
 
                         <h2>9. Indemnification</h2>
                         <p>
-                            You agree to indemnify, defend, and hold harmless Sarva, its affiliates,
+                            You agree to indemnify, defend, and hold harmless Bhopal Bazaar, its affiliates,
                             officers, directors, employees, agents, suppliers, and licensors from and
                             against any and all claims, liabilities, damages, losses, costs,
                             expenses, or fees (including reasonable attorneys' fees) arising out of or
@@ -256,9 +256,9 @@ export default function TermsOfServicePage() {
                         <h2>12. Changes to These Terms</h2>
                         <p>
                             We reserve the right to modify or update these Terms at any time. We will
-                            notify Users of any material changes by posting the updated Terms on Sarva
+                            notify Users of any material changes by posting the updated Terms on Bhopal Bazaar
                             or through other appropriate communication channels. Your continued use of
-                            Sarva after the effective date of any changes constitutes your acceptance
+                            Bhopal Bazaar after the effective date of any changes constitutes your acceptance
                             of the revised Terms.
                         </p>
 
@@ -278,15 +278,15 @@ export default function TermsOfServicePage() {
                             Disclaimer Regarding Developer Responsibility
                             </h3>
                             <p className="text-gray-700">
-                            The development and provision of the Sarva platform are services
-                            provided by an independent developer. Sarva, its owners, operators, and
+                            The development and provision of the Bhopal Bazaar platform are services
+                            provided by an independent developer. Bhopal Bazaar, its owners, operators, and
                             affiliates are solely responsible for the terms and conditions outlined
                             in this Terms of Service. The developer shall not be held liable or
                             responsible for any aspect of user agreements, service provisions,
                             liabilities, or obligations related to the operation of the Marketplace
-                            or the use of the Services. By using Sarva, Users acknowledge and agree
+                            or the use of the Services. By using Bhopal Bazaar, Users acknowledge and agree
                             that any concerns or issues related to these Terms should be directed to
-                            Sarva using the contact information provided above, and not to the
+                            Bhopal Bazaar using the contact information provided above, and not to the
                             developer.
                             </p>
                         </div>
