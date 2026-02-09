@@ -45,7 +45,7 @@ const FeedbackModal: React.FC<FeedbackModalProps> = ({
 			delivery_date: deliveryDate,
 			rating: rating,
 			comments: comment || "No comments provided",
-			recipient_email: "customercontact@sarvabazaar.com",
+			recipient_email: "customercontact@bhopalbazaar.com",
 		};
 
 		// Send the feedback using EmailJS
