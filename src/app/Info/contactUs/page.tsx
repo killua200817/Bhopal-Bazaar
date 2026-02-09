@@ -73,7 +73,7 @@ export default function ContactUsPage() {
 
     const handleContactSupport = () => {
 		// Implement support contact functionality
-		window.location.href = `mailto:customercontact@sarvabazaar.com?subject=Support Request for User ${curUser?.displayName} &body=Hello, I need assistance with my account (User ID: ${curUser?.uid}) and/or services. Please provide support.`;
+		window.location.href = `mailto:customercontact@bhopalbazaar.com?subject=Support Request for User ${curUser?.displayName} &body=Hello, I need assistance with my account (User ID: ${curUser?.uid}) and/or services. Please provide support.`;
 	};
 
     return (
@@ -129,7 +129,7 @@ export default function ContactUsPage() {
             href="mailto:support@example.com"
             className="text-blue-600 hover:text-puce transition-colors"
           >
-            customercontact@sarvabazaar.com
+            customercontact@bhopalbazaar.com
           </a>
         </li>
       </ul>
